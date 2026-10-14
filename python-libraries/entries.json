@@ -1,0 +1,22 @@
+{
+  "student": "Tergel",
+  "gpa": "3.65",
+  "games": [
+    {
+      "title": "Brawl Stars",
+      "hours_per_week": "4"
+    },
+    {
+      "title": "Madden",
+      "hours_per_week": "2"
+    },
+    {
+      "title": "NBA2K",
+      "hours_per_week": "2"
+    },
+    {
+      "title": "Fortnite",
+      "hours_per_week": "1"
+    }
+  ]
+}
