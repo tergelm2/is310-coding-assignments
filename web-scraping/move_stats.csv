@@ -1,0 +1,21 @@
+move,list_url,move_url,type,category,listed_power,listed_accuracy_percent,base_pp
+Thunder Punch,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Thunder_Punch_(move),Electric,Physical,75,100,15
+Vise Grip,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Vise_Grip_(move),Normal,Physical,55,100,30
+Double Kick,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Double_Kick_(move),Fighting,Physical,30,100,30
+Fury Attack,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Fury_Attack_(move),Normal,Physical,15,85,20
+Pin Missile,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Pin_Missile_(move),Bug,Physical,25,95,20
+Water Gun,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Water_Gun_(move),Water,Special,40,100,25
+Hydro Pump,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Hydro_Pump_(move),Water,Special,110,80,5
+Psybeam,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Psybeam_(move),Psychic,Special,65,100,20
+Bubble Beam,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Bubble_Beam_(move),Water,Special,65,100,20
+Hyper Beam,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Hyper_Beam_(move),Normal,Special,150,90,5
+Submission,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Submission_(move),Fighting,Physical,80,80,20
+Mega Drain,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Mega_Drain_(move),Grass,Special,40,100,15
+Fire Spin,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Fire_Spin_(move),Fire,Special,35,85,15
+Psychic,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Psychic_(move),Psychic,Special,90,100,10
+Sludge,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Sludge_(move),Poison,Special,65,100,20
+Dream Eater,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Dream_Eater_(move),Psychic,Special,100,100,15
+Barrage,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Barrage_(move),Normal,Physical,15,85,20
+Sky Attack,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Sky_Attack_(move),Flying,Physical,140,90,5
+Explosion,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Explosion_(move),Normal,Physical,250,100,5
+Rock Slide,https://bulbapedia.bulbagarden.net/wiki/List_of_moves,https://bulbapedia.bulbagarden.net/wiki/Rock_Slide_(move),Rock,Physical,75,90,10
