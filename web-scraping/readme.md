@@ -21,7 +21,7 @@ My script uses Python's requests and BeautifulSoup libraries. It identifies the 
 
 My scraper starts at the [List of moves](https://bulbapedia.bulbagarden.net/wiki/List_of_moves) page and follows links to individual move pages. It uses a fixed list of 20 moves introduced in Generation I: 10 physical and 10 special moves.
 
-For each move, I collected its name, type, category, listed power, accuracy, PP (base number of uses), and page URL. I saved the results in move_stats.csv so they can be analyzed in Excel. The statistics are the wiki's latest listed values for each move, rather than their original Generation I values. The included data were collected with Codex assistance.
+For each move, I collected its name, type, category, listed power, accuracy, PP (base number of uses), and page URL. I saved the results in move_stats.csv so they can be analyzed in Excel. The statistics are the wiki's latest listed values for each move, rather than their original Generation I values. This might not be the most accurate for Generation I but it gives the most recent values which can also be of use.
 
 
 ## Reflection
